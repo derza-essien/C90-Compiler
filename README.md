@@ -11,4 +11,3 @@ Below is a table with documentation of my contributions to the C90 compiler:
 | miscelleneous code generation | [doc](https://github.com/derza-essien/C90-Compiler/blob/main/documentation/misc_code_gen.md) |
 | struct code generation | [doc](https://github.com/derza-essien/C90-Compiler/blob/main/documentation/struct_code_gen.md) |
 | types code generation | [doc](https://github.com/derza-essien/C90-Compiler/blob/main/documentation/types_struct_gen.md) |
-| testing | [doc](https://github.com/derza-essien/C90-Compiler/blob/main/documentation/testing.md) |
