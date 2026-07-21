@@ -2,7 +2,7 @@
 
 > Please note that the actual repository containing all the code relevent for producing the compiler is unable to be shared (it is mandated that this project's repository is kept private). This repository only provides documentation about the different sections designed
 
-Below is a table with documentation of my contributions to the C90 compiler
+Below is a table with documentation of my contributions to the C90 compiler:
 
 | Contribution | Documentation |
 | - | - |
